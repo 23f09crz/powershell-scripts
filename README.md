@@ -2,8 +2,8 @@ I'm a Linux User, but when I want to play something I use windows. Here's a coll
 
 Every script is placed on a folder that have two files:
 
-script.ps1
-instructions.md
+- script.ps1
+- instructions.md
 
 I dont think there's more explaining to do
 
