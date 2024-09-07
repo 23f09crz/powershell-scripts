@@ -1,6 +1,7 @@
 THIS. IS. UNSAFE.
 
 I DO IT STRICTLY BECAUSE I DO NOT PRIORITYZE MY LEAGUE OF LEGENDS ACCOUNT SAFETY OVER THE 5 SECONDS IT TAKE FOR ME TO OPEN MY PASSWORD MANAGER.
+
 ANYONE THAT HAVE ACESS TO YOUR COMPUTER CAN GET YOUR PASSWORD THIS WAY, **DO NOT** USE THIS WITH IMPORTANT STUFF (Emails, Banking, Any service that have acess to your credit card info etc)
 
 that said,
@@ -13,5 +14,5 @@ config instructions:
 
 running instructions:
 
-- Write the shortcuts name on the search menu
-- that's it
+- Write the shortcut name on the search menu
+- press enter :D
