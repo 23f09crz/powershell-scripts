@@ -1,10 +1,10 @@
-I'm a Linux User, but when I want to play something I use windows. Here's a collection of scripts that I find useful for my use cases.
+I'm a Linux User, but when I want to play something I use windows. Here's a collection of scripts that I find useful for making the windows experience more bearable .
 
 Every script is placed on a folder that have two files:
 
 - script.ps1
 - instructions.md
 
-I dont think there's more explaining to do
+I dont think there's more explaining to do so ...,, ,,, '''
 
 
